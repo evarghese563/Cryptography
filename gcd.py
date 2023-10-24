@@ -1,3 +1,5 @@
+'''Finding the gcd of 2 numbers to check if it's coprime'''
+
 import math
 
 print("Enter val1")

@@ -7,7 +7,6 @@ def mval(m,b):
 def bit(m):
     ''' Find the binary value'''    
     b= m % 2
-    binary = binary + str(b)
     return b 
 
 
